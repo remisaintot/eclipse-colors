@@ -1,0 +1,10 @@
+Double\ quoted\ string=0,0,0,0,0,0,255,128
+Identifier=1,0,0,0,0,32,192,0
+Keyword=1,0,0,0,0,0,128,255
+Multi-line\ comment=0,1,0,0,0,176,176,176
+Others=0,0,0,0,1,0,0,0
+SQLEditor.executeSelectedSQL.betweenDelimiter.delimiterType=go
+Single\ quoted\ string=0,0,0,0,0,255,32,0
+Single-line\ comment=0,1,0,0,0,176,176,176
+Type=1,0,0,0,0,64,0,255
+eclipse.preferences.version=1

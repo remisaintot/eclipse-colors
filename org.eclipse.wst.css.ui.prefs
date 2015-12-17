@@ -1,0 +1,17 @@
+ATMARK_RULE=\#ff6060 | null | false | false | false | false
+ATTRIBUTE_DELIM=\#00a020 | null | false | false | false | false
+ATTRIBUTE_NAME=\#008040 | null | false | false | false | false
+ATTRIBUTE_OPERATOR=\#ff0040 | null | false | false | false | false
+ATTRIBUTE_VALUE=\#80a0c0 | null | false | false | false | false
+CLASS=\#00a020 | null | false | false | false | false
+COLON=\#ff0000 | null | false | false | false | false
+COMMENT=\#bfbfbf | null | false | false | false | false
+ID=\#00a040 | null | false | true | false | false
+PROPERTY_NAME=\#0080e0 | null | false | false | false | false
+PROPERTY_VALUE=\#000000 | null | false | true | false | false
+PSEUDO=\#00a040 | null | false | true | false | false
+SELECTOR=\#00a040 | null | true | false | false | false
+SEMI_COLON=\#ffa500 | null | false | false | false | false
+UNIVERSAL=\#0080e0 | null | false | false | false | false
+URI=\#c080ff | null | false | true | false | true
+eclipse.preferences.version=1
