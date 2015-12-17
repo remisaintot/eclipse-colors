@@ -1,7 +1,5 @@
-# eclipse-colors
+# RS Eclipse Colors
 
 RS' Syntax highlighting theme for Eclipse. 
 
-`RSFormatter.xml` file have to be loaded using Eclipse preferences.
-
-Other files have to be (re)placed in your workspace directory into `.metadata/.plugins/org.eclipse.core.runtime/.settings/`.
+Files have to be (re)placed under your workspace directory in `.metadata/.plugins/org.eclipse.core.runtime/.settings/`.
