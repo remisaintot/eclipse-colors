@@ -2,4 +2,8 @@
 
 RS' Syntax highlighting theme for Eclipse. 
 
-Files have to be (re)placed under your workspace directory in `.metadata/.plugins/org.eclipse.core.runtime/.settings/`.
+One directory per major eclipse version. 
+
+Themes are different per eclipse version.
+
+Files have to be (re)placed in your workspace directory in `.metadata/.plugins/org.eclipse.core.runtime/.settings/`.
